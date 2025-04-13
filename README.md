@@ -17,7 +17,7 @@ If you haven't already, make sure you install the packages for working with maps
 ```terminal
 conda install osmnx
 ```
-
+py
 ### Getting the Starter Code
 
 **Do not** directly clone the [Project 3 template repository](https://github.com/ubc-cpsc203-2023W2/Project3)!  You have only write access to the template repository so you cannot push your changes to it.  Do not risk losing your work if your laptop crashes: Make your own copy of the repository using the instructions below.
